@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ozcan1489
-- 👀 I’m interested in Spring Boot
-- 🌱 I’m currently learning microservices 
+- 👀 I’m interested in Spring Boot, Kafka, Microservice, Docker, Kubernetes
+- 🌱 I’m currently learning front-end.
 - 📫 How to reach me ozcn.ramazan@gmail.com
 
 <!---
